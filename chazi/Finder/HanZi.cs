@@ -34,7 +34,7 @@ namespace chazi
 
     public class MatchHanzi:Hanzi
     {
-        public  string font;
+        public List<string> font;
         public 
         public MatchHanzi(char hanzi)
             :base(hanzi)
