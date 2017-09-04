@@ -12,29 +12,5 @@ namespace chazi
         {
             return null;
         }
-
-#region traHanziToSimp
-        static string transTraHanziToSimp(string sentence)
-        {
-            return sentence;
-        }
-        static char transTraHanziToSimp(char hanzi)
-        {
-            return hanzi;
-        }
-#endregion
-
-#region simpHanziToTra
-        static string transSimpToTraHanzi(string sentence)
-        {
-            return sentence;
-        }
-        static char transSimpToTraHanzi(char hanzi)
-        {
-            return hanzi;
-        }
-#endregion
-
-
     }
 }

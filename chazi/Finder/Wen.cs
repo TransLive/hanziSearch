@@ -1,18 +1,18 @@
 ﻿using System;
 namespace chazi
 {
-    public class Wenzhang
+    public class Wen
     {
         string calligrapher;
         string font;
         string path;
-        public Wenzhang()
+        public Wen()
         {
 
         }
     }
 
-    public class MatchWenzhang : Wenzhang
+    public class MatchWenzhang : Wen
     {
         
     }

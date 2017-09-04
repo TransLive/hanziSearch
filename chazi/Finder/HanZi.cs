@@ -10,32 +10,33 @@ namespace chazi
             this.hanzi = hanzi;
         }
 
-		#region traHanziToSimp
-		static string transTraHanziToSimp(string sentence)
-		{
-			return sentence;
-		}
-		static char transTraHanziToSimp(char hanzi)
-		{
-			return hanzi;
-		}
-		#endregion
+        #region traHanziToSimp
+        static string transTraHanziToSimp(string sentence)
+        {
+            return sentence;
+        }
+        static char transTraHanziToSimp(char hanzi)
+        {
+            return hanzi;
+        }
+        #endregion
 
-		#region simpHanziToTra
-		static string transSimpToTraHanzi(string sentence)
-		{
-			return sentence;
-		}
-		static char transSimpToTraHanzi(char hanzi)
-		{
-			return hanzi;
-		}
+        #region simpHanziToTra
+        static string transSimpToTraHanzi(string sentence)
+        {
+            return sentence;
+        }
+        static char transSimpToTraHanzi(char hanzi)
+        {
+            return hanzi;
+        }
+        #endregion
     }
 
     public class MatchHanzi:Hanzi
     {
         public List<string> font;
-        public 
+        public Dictionary<string, char> sentence;
         public MatchHanzi(char hanzi)
             :base(hanzi)
         {
