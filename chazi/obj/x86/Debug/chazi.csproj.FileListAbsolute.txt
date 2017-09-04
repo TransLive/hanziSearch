@@ -1,5 +1,0 @@
-/Users/jyw/Desktop/hanziSearch/chazi/bin/Debug/chazi.exe
-/Users/jyw/Desktop/hanziSearch/chazi/bin/Debug/chazi.pdb
-/Users/jyw/Desktop/hanziSearch/chazi/obj/x86/Debug/chazi.csproj.CoreCompileInputs.cache
-/Users/jyw/Desktop/hanziSearch/chazi/obj/x86/Debug/chazi.exe
-/Users/jyw/Desktop/hanziSearch/chazi/obj/x86/Debug/chazi.pdb
