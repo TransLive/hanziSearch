@@ -8,7 +8,9 @@ namespace chazi
     {
 
         public static void Main(string[] args)
-        {   //read hanzi from readstream etc.
+        {
+            
+            //read hanzi from readstream etc.
 
             //find hanzi in articles
 
@@ -16,16 +18,5 @@ namespace chazi
         }
 
     }
-    public class A
-    {
-        public char hanzi
-        {
-            get { return hanzi; }
-            set { hanzi = value; }
-        }
-        public void foo()
-        {
-            
-        }
-	}
+
 }
